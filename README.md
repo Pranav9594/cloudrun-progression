@@ -1,6 +1,6 @@
 # Canary Deployments with Cloud Run and Cloud Build
 
-Thisdocument  shows you how to implement a deployment pipeline for
+This document  shows you how to implement a deployment pipeline for
 Cloud Run that implements progression of code from developer
 branches to production with automated canary testing and percentage-based
 traffic management. It is intended for platform administrators who are
