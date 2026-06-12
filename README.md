@@ -6,7 +6,7 @@ branches to production with automated canary testing and percentage-based
 traffic management. It is intended for platform administrators who are
 responsible for creating and managing CI/CD pipelines to
 GKE. This document assumes that you have a basic
-understanding of Git, Cloud Run, and CI/CD pipeline concepts
+understanding of Git, Cloud Run, and CI/CD pipeline concepts.
 
 Cloud Run lets you deploy and run your applications with little
 overhead or effort. Many organizations use robust release pipelines to move code
